@@ -61,8 +61,9 @@ def set_custom_fields(update=True):
 	create_custom_fields(custom_fields, ignore_validate=frappe.flags.in_patch, update=update)
 
 def change_stores_warehouse():
-	warehouse_name = f'Stores - {abbr}'
-	if frappe.db.exists('Warehouse',warehouse_name):
-		warehouse = frappe.get_doc('Warehouse',warehouse_name)
-		warehouse.is_group = 1
-		warehouse.save()
+	pass
+	# warehouse_name = f'Stores - {abbr}'
+	# if frappe.db.exists('Warehouse',warehouse_name):
+	# 	warehouse = frappe.get_doc('Warehouse',warehouse_name)
+	# 	warehouse.is_group = 1
+	# 	warehouse.save()
