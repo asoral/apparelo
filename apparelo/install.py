@@ -115,3 +115,4 @@ def create_bags_uom():
         uom=frappe.new_doc("UOM")
         uom.uom_name= 'Bags'
         uom.save()
+
