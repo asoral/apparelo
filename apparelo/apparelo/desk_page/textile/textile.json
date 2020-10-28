@@ -1,0 +1,91 @@
+{
+ "cards": [
+  {
+   "hidden": 0,
+   "label": "Item Details",
+   "links": "[\n\t{\n\t\t\"description\": \"Item Production Detail\",\n        \"label\": \"Item Production Detail\",\n        \"name\": \"Item Production Detail\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Part\",\n        \"label\": \"Part\",\n        \"name\": \"Apparelo Part\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Checking\",\n        \"label\": \"Checking\",\n        \"name\": \"Checking\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Ironing\",\n        \"label\": \"Ironing\",\n        \"name\": \"Ironing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Packing\",\n        \"label\": \"Packing\",\n        \"name\": \"Packing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Stitching\",\n        \"label\": \"Stitching\",\n        \"name\": \"Stitching\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Bleaching\",\n        \"label\": \"Bleaching\",\n        \"name\": \"Bleaching\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Dyeing\",\n        \"label\": \"Dyeing\",\n        \"name\": \"Dyeing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Steaming\",\n        \"label\": \"Steaming\",\n        \"name\": \"Steaming\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Roll Printing\",\n        \"label\": \"Roll Printing\",\n        \"name\": \"Roll Printing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Piece Printing\",\n        \"label\": \"Piece Printing\",\n        \"name\": \"Piece Printing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Label Fusing\",\n        \"label\": \"Label Fusing\",\n        \"name\": \"Label Fusing\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Knitting\",\n        \"label\": \"Knitting\",\n        \"name\": \"Knitting\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Cutting\",\n        \"label\": \"Cutting\",\n        \"name\": \"Cutting\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Compacting\",\n        \"label\": \"Compacting\",\n        \"name\": \"Compacting\",\n        \"type\": \"doctype\"\n\t}\n\t\n]"
+  },
+  {
+   "hidden": 0,
+   "label": "Textile Processing",
+   "links": "[\n    {\n\t\t\"description\": \"Lot Creation\",\n        \"label\": \"Lot Creation\",\n        \"name\": \"Lot Creation\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Lot Closure\",\n        \"label\": \"Lot Closure\",\n        \"name\": \"Lot Closure\",\n        \"type\": \"doctype\"\n\t},\n    {\n\t\t\"description\": \"DC\",\n        \"label\": \"DC\",\n        \"name\": \"DC\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"GRN\",\n        \"label\": \"GRN\",\n        \"name\": \"GRN\",\n        \"type\": \"doctype\"\n\t}\n]"
+  },
+  {
+   "hidden": 0,
+   "label": "Masters",
+   "links": "[\n\t{\n\t\t\"description\": \"Item\",\n        \"label\": \"Item\",\n        \"name\": \"Item\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"IPD Item Mapping\",\n        \"label\": \"IPD Item Mapping\",\n        \"name\": \"IPD Item Mapping\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"IPD BOM Mapping\",\n        \"label\": \"IPD BOM Mapping\",\n        \"name\": \"IPD BOM Mapping\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Dia\",\n        \"label\": \"Dia\",\n        \"name\": \"Apparelo Dia\",\n        \"type\": \"doctype\"\n    },\n    {\n\t\t\"description\": \"Style\",\n        \"label\": \"Style\",\n        \"name\": \"Apparelo Style\",\n        \"type\": \"doctype\"\n    },\n    {\n\t\t\"description\": \"Size\",\n        \"label\": \"Size\",\n        \"name\": \"Apparelo Size\",\n        \"type\": \"doctype\"\n    },\t\n    {\n\t\t\"description\": \"Print Type\",\n        \"label\": \"Print Type\",\n        \"name\": \"Print Type\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Multi Process\",\n        \"label\": \"Multi Process\",\n        \"name\": \"Multi Process\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Process\",\n        \"label\": \"Process\",\n        \"name\": \"Apparelo Process\",\n        \"type\": \"doctype\"\n\t}\n]"
+  },
+  {
+   "hidden": 0,
+   "label": "Settings",
+   "links": "\n[\n\t{\n\t\t\"description\": \"Textile Settings\",\n        \"label\": \"Textile Settings\",\n        \"name\": \"Apparelo Settings\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Knitting Type\",\n        \"label\": \"Knitting Type\",\n        \"name\": \"Knitting Type\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Yarn Shade\",\n        \"label\": \"Yarn Shade\",\n        \"name\": \"Apparelo Yarn Shade\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Colour\",\n        \"label\": \"Colour\",\n        \"name\": \"Apparelo Colour\",\n        \"type\": \"doctype\"\n\t},\n\t{\n\t\t\"description\": \"Additional Parameters\",\n        \"label\": \"Additional Parameters\",\n        \"name\": \"Additional Parameters\",\n        \"type\": \"doctype\"\n    }\n\t\t\n]"
+  }
+ ],
+ "category": "Domains",
+ "charts": [
+  {
+   "chart_name": "DC By Week",
+   "label": "DC By Week"
+  },
+  {
+   "chart_name": "GRN By week",
+   "label": "GRN By week"
+  }
+ ],
+ "creation": "2020-10-28 16:39:35.575349",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Desk Page",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_standard": 1,
+ "label": "Textile",
+ "modified": "2020-10-28 17:41:16.158380",
+ "modified_by": "Administrator",
+ "module": "Apparelo",
+ "name": "Textile",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "restrict_to_domain": "Textile",
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "IPD Item Mapping",
+   "link_to": "IPD Item Mapping",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "IPD BOM Mapping",
+   "link_to": "IPD BOM Mapping",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "DC",
+   "link_to": "DC",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "GRN",
+   "link_to": "GRN",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Lot Creation",
+   "link_to": "Lot Creation",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Lot Closure",
+   "link_to": "Lot Closure",
+   "type": "DocType"
+  }
+ ]
+}

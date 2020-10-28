@@ -45,6 +45,8 @@ def after_install():
     create_default_roles()
     set_permissions_to_core_doctypes()
 
+    frappe.db.sql("""INSERT INTO `tabDomain` (name,domain) VALUES ('Textile','Textile')""")
+
 
 def create_item_attributes():
     knitting.create_item_attribute()
